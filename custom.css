@@ -1,7 +1,15 @@
 .reveal {
-font-size: 100%;
+font-size: 180%;
 }
 
 .slides {
 width: 1200px;
+}
+
+h1 {
+overflow: hidden;
+}
+
+.text_cell_render.border-box-sizing.rendered_html {
+overflow-x: hidden;
 }
